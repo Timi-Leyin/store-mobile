@@ -22,17 +22,17 @@ A React Native application for shopping that allows users to browse products, ad
 
 ## Screenshots
 
-### Home Screen
+### Products Screen
 
-![Home Screen](./assets/screenshots/home.png)
+![Products Screen](./assets/showcase/1.jpg)
 
 ### Cart Screen
 
-![Cart Screen](./assets/screenshots/cart.png)
+![Cart Screen](./assets/showcase/2.jpg)
 
 ### Checkout Screen
 
-![Checkout Screen](./assets/screenshots/checkout.png)
+![Checkout Screen](./assets/showcase/3.jpg)
 
 ## Installation
 
